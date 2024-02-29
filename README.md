@@ -14,7 +14,7 @@ Set the material to the Outlines material with the outlines shader.<br>
 ![5bf6b813c66f0a20792b9eee6a847b7c](https://github.com/ToxPlayers/Unity-SobelOutlines/assets/67845762/81d8f72f-1b7f-429a-8a88-263aefea2326)
 
 # Parameters  
-<h1> IMPORTANT: when testing with scene view camera, make sure the near and far values in the top camera settings are the same as your game's camera.</h1>
+<h1> IMPORTANT: when testing with scene view camera, make sure the near and far values in the scene camera settings are the same as your game's camera.</h1>
   
 **Scale -** the distance of the pixel sampling. Values other than 1 may introduce visual artifacts.<br> 
 **NearNormalThreshold -** the normal threshold when the camera is at 0 distance.<br> 
