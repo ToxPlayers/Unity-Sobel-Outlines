@@ -121,7 +121,7 @@ Material:
     - _FarDepthThreshold: 0.0003
     - _FarNormalDepth: 0.19
     - _FarNormalStrength: 6.62
-    - _FarNormalThreshold: 1.47
+    - _FarNormalThreshold: 9.88
     - _FarNormalThresholdMult: 0
     - _FarOutline: 100
     - _FarScale: -0.26
@@ -138,7 +138,7 @@ Material:
     - _MinScaleDistance: 0
     - _NearDepthThreshold: 0.001
     - _NearNormalStrength: 0.1
-    - _NearNormalThreshold: 1.24
+    - _NearNormalThreshold: 0.8
     - _NearOutline: 1
     - _NearScale: 1
     - _NearScaleDepth: 0.5
