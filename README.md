@@ -26,4 +26,6 @@ Set the material to the Outlines material with the outlines shader.<br>
 **Angle -** An angle for multiplying the depth outline to avoid artifacts when the viewing angle is nearly perpendicular.<br>
 **AngleMultiplier -** When reaching **Angle**, depth outline will be multiplied by this value.<br> 
 
-![image](https://github.com/ToxPlayers/Unity-SobelOutlines/assets/67845762/a345aa98-d1d5-48d5-9bb0-28bb162ed05d)
+**The settings I used:**<br>
+![01acbabaf148f51cca2967524eb14081](https://github.com/ToxPlayers/Unity-SobelOutlines/assets/67845762/c1e5d90a-2629-43db-9a97-28f2851ae36e)
+
