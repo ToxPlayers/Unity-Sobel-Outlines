@@ -6,9 +6,9 @@ Toon sobel outlines using depth + view normals, and distance based parameters. (
 ![image](https://github.com/ToxPlayers/Unity-SobelOutlines/assets/67845762/ec765741-6fbe-46a1-a688-c6b3b443a88c)
 
 # Usage
-
-Add "Full Screen Pass Renderer Feature" to your Universal Renderer Data.<br>
-Requirements must have "Depth" and "Normal" enabled.<br>
+Download the unity package from Releases.
+Add **Full Screen Pass Renderer Feature** to your Universal Renderer Data.<br>
+Requirements must have **Depth** and **Normal** enabled.<br>
 Set the material to the Outlines material with the outlines shader.<br>
 
 ![5bf6b813c66f0a20792b9eee6a847b7c](https://github.com/ToxPlayers/Unity-SobelOutlines/assets/67845762/81d8f72f-1b7f-429a-8a88-263aefea2326)
