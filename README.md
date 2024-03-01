@@ -23,7 +23,7 @@ Set the material to the Outlines material with the outlines shader.<br>
 **FarDepthThreshold -** the depth threshold when '''.<br>
 **MinFadeDistance -** the minimum distance for the fade to begin.<br>
 **MaxFadeDistance -** the maximum distance for the outline to be visible. pixels farther than **MaxFadeDistance** will not be sampled.<br>
-**Angle -** An angle for multiplying the depth outline to avoid artifacts when the viewing angle is nearly perpendicular.<br>
+**Angle -** A viewing angle for multiplying the depth outline to avoid artifacts when the viewing angle is nearly perpendicular.<br>
 **AngleMultiplier -** When reaching **Angle**, depth outline will be multiplied by this value.<br> 
 
 **The settings I used:**<br>
