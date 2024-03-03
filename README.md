@@ -1,4 +1,4 @@
-# Unity-SobelOutlines
+# Unity-Sobel-Outlines
 Toon sobel outlines using depth + view normals, and distance based parameters. (URP) <br>
 
 [toon shading in the image below by cyanilux, not included](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
